@@ -2,7 +2,7 @@
 
 #### Pull the latest docker image
 
-`docker pull cemkaragozlu/spark-wine-prediction`
+`docker pull sshower111/wine-prediction`
 
 #### Run prediction on your data
 
